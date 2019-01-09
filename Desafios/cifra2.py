@@ -1,4 +1,3 @@
-
 def cifrar(lista, key):
     texto_cifrado = []
     for x in range(len(lista)):
