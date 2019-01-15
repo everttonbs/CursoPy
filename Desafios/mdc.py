@@ -3,13 +3,12 @@ def mdc(num1, num2):
     
     resto = num1 % num2
     print(resto)
-    a = 2
-
+    
     if(resto == 0):        
         print('ok')
         print(f"Num2 : {num2}")
         return num2
-        
+             
 
     elif(resto == 1):
         return (1)
